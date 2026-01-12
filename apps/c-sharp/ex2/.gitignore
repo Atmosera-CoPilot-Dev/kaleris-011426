@@ -1,0 +1,54 @@
+# Build and output directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Test results
+TestResults/
+
+# Log files
+log.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+# Package directories
+packages/
+
+# Other
+*.swp
+*.bak
+*.tmp
+
+# Rider
+.idea/
+
+# JetBrains Rider
+*.DotSettings.user
+
+# Resharper
+_ReSharper*/
+
+# Backup & crash files
+*.orig
+*.rej
+
+# Ignore coverage reports
+coverage*
+
+# Ignore generated files
+Generated_Code*/

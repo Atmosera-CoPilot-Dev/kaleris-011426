@@ -1,0 +1,40 @@
+# .gitignore for Maven Java project
+
+# Maven build output
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# Dependency caches
+/.mvn/.mavenrc
+/.mvn/wrapper/maven-wrapper.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test reports
+surefire-reports/
+jacoco.exec
+
+# Generated files
+*.class
+
+# Environment files
+.env

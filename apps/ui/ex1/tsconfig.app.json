@@ -1,0 +1,18 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "types": []
+  },
+  "files": [
+    "src/main.ts",
+    "src/polyfills.ts",
+    "src/app/app.module.ts",
+    "src/app/app.component.ts",
+    "src/app/features/home/home.component.ts",
+    "src/app/shared/components/random-welcome/random-welcome.component.ts"
+  ],
+  "include": [
+    "src/**/*.d.ts"
+  ]
+}

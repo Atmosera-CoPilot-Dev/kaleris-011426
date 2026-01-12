@@ -1,0 +1,18 @@
+.random-welcome-angular/src/app/shared/components/random-welcome/random-welcome.component.scss
+/* Styles specific to the RandomWelcomeComponent */
+
+.random-welcome {
+    font-size: 1.5em;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #007bff;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    color: #343a40;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+        background-color: #e2e6ea;
+    }
+}
