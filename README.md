@@ -3,6 +3,7 @@
 Andrew Scoppa
 
 andrew.scoppa@atmosera.com
+
 LinkedIn: https://www.linkedin.com/in/andrewscoppa/
 
 ## GitHub Copilot CLI
