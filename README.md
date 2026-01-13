@@ -1,10 +1,10 @@
-# Welcome to the GitHub Copilot Developer Training
+# GitHub Copilot Developer Training
 
 Andrew Scoppa
 
 andrew.scoppa@atmosera.com
 
-LinkedIn: https://www.linkedin.com/in/andrewscoppa/
+https://www.linkedin.com/in/andrewscoppa/
 
 ## GitHub Copilot CLI
 
